@@ -47,7 +47,7 @@ class SUtil
 			else
 			{
 				SUtil.applicationAlert('Permissions?', 'Please grant the storage permissions in app settings' + '\nPress Ok io close the app');
-				System.exit(1);
+				
 			}
 		}
 
